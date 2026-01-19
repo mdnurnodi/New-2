@@ -1,0 +1,7 @@
+{
+  "name": "বাংলার কৃষিবিদ (Banglar Krishi Bid)",
+  "description": "An AI-powered crop disease diagnostic tool for Bangladeshi farmers. Upload a photo of a diseased plant to get the disease name and remedies in Bengali.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
